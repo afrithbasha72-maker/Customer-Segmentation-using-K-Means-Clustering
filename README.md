@@ -117,4 +117,5 @@ The model identified 5 distinct customer groups:
 This project demonstrates how unsupervised learning can uncover hidden patterns in customer data and provide actionable business insights.
 
 🔗 Author
+
 Afrith Basha
